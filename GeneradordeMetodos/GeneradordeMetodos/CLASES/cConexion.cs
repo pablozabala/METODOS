@@ -10,7 +10,7 @@ namespace GeneradordeMetodos.CLASES
     {
         public static string GetConexion()
         {
-            string cadena = "Data Source=SECRETARIA-2\\SQLEXPRESS;Initial Catalog=ESCUELA;Integrated Security=True";
+            string cadena = "Data Source=SECRETARIA-2\\SQLEXPRESS;Initial Catalog=DGA;Integrated Security=True";
             return cadena;
         }
     }
